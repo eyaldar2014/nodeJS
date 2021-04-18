@@ -4,7 +4,7 @@ const theFolder = './2.1';
 
 // 1
 // create text file
-// fs.writeFileSync("notes2.txt", 'lalala')
+// fs.writeFileSync("notes.txt", 'lalala')
 
 
 

@@ -1,3 +1,4 @@
+// "type": "module", to the json file
 // module.export
 
 import add from "./exportFunc1.js";
