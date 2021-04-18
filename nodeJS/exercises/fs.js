@@ -49,8 +49,8 @@ const theFolder = './2.1';
 
 // 5
 // my own
-function callback3(err, file) {
-  if (err) throw err;
-  console.log(file) 
-}
-fs.readFile("copy.txt", 'utf8', callback3)
+// function callback3(err, file) {
+//   if (err) throw err;
+//   console.log(file) 
+// }
+// fs.readFile("copy.txt", 'utf8', callback3)
